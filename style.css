@@ -1,0 +1,33 @@
+body
+{
+color:#F2FAFA;
+background:#F7819F;
+}
+
+.container
+{
+background: #105C64;
+margin-top:20px;
+border-radius:20px;
+border: 5px solid #FFFFFF;
+}
+
+.header
+{
+background-color:#848484;
+padding:5px;
+margin:20px;
+border:3px solid #CEF6F5;
+border-style: inset;
+
+}
+
+.user_link
+{
+margin-left:20px;
+}
+
+.table-margin
+{
+margin-top:100px;
+}
